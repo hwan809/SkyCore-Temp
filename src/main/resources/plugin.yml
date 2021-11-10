@@ -1,0 +1,5 @@
+name: SkyCore
+version: '${project.version}'
+main: kr.endworld.vivace.Main
+api-version: 1.16
+authors: [ vivace ]
